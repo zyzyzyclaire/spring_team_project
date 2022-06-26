@@ -28,4 +28,14 @@ DB 설정
 4. Team 계정 접속 후 zip 파일에있는 team.sql 파일을 복사해서 @붙이고 넣어준다.
 
 # 설명
+### ERD
 ![image](https://user-images.githubusercontent.com/95404191/175818610-4bc6afae-6b25-4cc4-b825-005602639ca6.png)
+
+### 마이페이지
+![image](https://user-images.githubusercontent.com/95404191/175818658-405cb27f-4be2-44d7-8744-befda1d6d6c5.png)
+
+### 파일 업로드
+![image](https://user-images.githubusercontent.com/95404191/175818672-59c5d24b-9f6d-4adc-bcc7-f708f80f25f8.png)
+
+### 장바구니
+![image](https://user-images.githubusercontent.com/95404191/175818685-4f0f5ffd-b7b1-47dc-8faa-64d11d3ae496.png)
